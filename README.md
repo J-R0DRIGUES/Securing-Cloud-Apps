@@ -1,0 +1,1 @@
+I developed and deployed a secure web application on Azure, implementing IP, DNS, SSL/TLS certificates, and Azure Key Vault for enhanced security. My work adhered to best practices in web security, effectively safeguarding against common vulnerabilities. Additionally, I demonstrated expertise in cloud security and web application security principles.
